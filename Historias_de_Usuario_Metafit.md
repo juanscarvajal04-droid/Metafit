@@ -120,7 +120,5 @@
 2. Añadir comentarios opcionales.  
 3. Mostrar promedio en reportes internos.  
 
----
 
-*(Puedes continuar hasta US-30 siguiendo el mismo formato, incluyendo venta de suplementos, notificaciones y dashboard admin)*
 
